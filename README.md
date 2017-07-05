@@ -1,2 +1,2 @@
-# labyrinthVR
-Here lies a tidy labyrinth game. 
+# ViveLabyrith
+A test for Vive tech, scholar project
